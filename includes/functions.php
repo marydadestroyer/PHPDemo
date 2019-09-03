@@ -71,6 +71,7 @@ function page_content()
 function init()
 {
     require config('template_path') . '/template.php';
+    
 }
 
 ?>
