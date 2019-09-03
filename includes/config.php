@@ -13,8 +13,8 @@ function config($key = '')
         'site_url' => 'https://phpdemtest.herokuapp.com',
         'nav_menu' => [
             '' => 'Home',
-            'about-us' => 'About Us'  //key value pair
-            'contact' =>  'contact'
+            'about-us' => 'About Us', //key value pair
+            'contact' =>  'contact',
         ],
         'template_path' => 'template',
         'content_path' => 'content',
