@@ -15,7 +15,7 @@ function config($key = '')
             '' => 'Home',
             'about-us' => 'About Us', //key value pair
             'contact' =>  'contact',
-            'Roxanne' =>  'roxanne'
+            'roxanne' =>  'Roxanne'
         ],
         'template_path' => 'template',
         'content_path' => 'content',
