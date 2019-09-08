@@ -15,16 +15,13 @@ article {
 }
 body {
     background-color: #9DEDFD;
-
-
 }
 
 nav .item {
-    text-emphasis-color: #7BC950;
-
+    background-color: #7BC950;
     text-decoration: none;
 }
 nav .active {
 
-    border-bottom: 1px solid;
+    border-bottom: 3px solid;
 }
