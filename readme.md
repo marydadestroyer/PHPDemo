@@ -4,6 +4,10 @@ I put together this project while introducing a friend of mine to PHP. I decided
 
 This project is meant for beginners. I've intentionally kept it minimal while introducing some [separation of concerns](https://en.wikipedia.org/wiki/Separation_of_concerns).
 
+
+NEW content
+This IS Mary Harrells Page--->
+
 ## Usage
 
 I've made sure to make the running of this little site as simple as possible. There are only to steps go take:
