@@ -21,7 +21,7 @@
     </article>
 
     <footer>
-        <small>&copy;<?php echo date('Y'); ?> <?php site_name(); ?>.<br><?php site_version(); ?></small>
+        <small>&copy;<?php echo date('Y'); ?> <p>HAPPY HARVESTING</p><?php site_name(); ?>.<br><?php site_version(); ?></small>
     </footer>
 </div>
 </body>
