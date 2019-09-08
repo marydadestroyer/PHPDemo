@@ -1,5 +1,6 @@
 
 .wrap {
+    color:#88EAFD;
     max-width: 720px;
     margin: 50px auto;
     padding: 30px 40px;
@@ -13,7 +14,7 @@ article {
 
 }
 body {
-  background: #88EAFD;
+
 }
 
 nav .item {
