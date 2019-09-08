@@ -20,10 +20,11 @@ body {
 }
 
 nav .item {
-    background-color: #7BC950;
+    text-emphasis-color: #7BC950;
+
     text-decoration: none;
 }
 nav .active {
-    background-color: #63C7B2;
+
     border-bottom: 1px solid;
 }
