@@ -8,7 +8,7 @@
 function config($key = '')
 {
     $config = [
-        'name' => 'Simple PHP Website',
+        'name' => 'Marys Weird Page',
         'pretty_uri' => false,
         'site_url' => 'https://phpdemtest.herokuapp.com',
         'nav_menu' => [
