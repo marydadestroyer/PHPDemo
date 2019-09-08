@@ -17,6 +17,9 @@ body {
     background-color: #9DEDFD;
 }
 
+img {
+    width:50%;
+}
 
 nav .item {
     background-color: #7BC950;
